@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Full Stack Engineer with a drive to learn and expand my knowledge within the tech industry. Some things about myself, I have a passion for video games and basketball. I've played and watched both basketball and video games since I was young. I started out gaming with my family on our playstation. My favorite game would probably be Halo. This sparked the competitve nature in myself. 
+
 <!--
 **Christian-AC/Christian-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
