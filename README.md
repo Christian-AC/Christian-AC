@@ -4,11 +4,11 @@ I am a Full Stack Engineer with a drive to learn and expand my knowledge within 
 
 
 ## My Projects
-<a href="https://ylp-clone.herokuapp.com/">Ylp</a>
+<a href="https://ylp-clone.herokuapp.com/">Ylp</a> A Yelp clone for users to review various businesses 
 
-<a href="https://polagrampython.herokuapp.com/">Polagram</a>
+<a href="https://polagrampython.herokuapp.com/">Polagram</a> A instagram clone for users to share their photos with their followers
 
-<a href="https://metaoverflow.herokuapp.com/">Metaoverflow</a>
+<a href="https://metaoverflow.herokuapp.com/">Metaoverflow</a>A message board where users can share thier opinion on metas of various videogames 
 
 ## Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
