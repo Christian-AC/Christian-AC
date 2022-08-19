@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-AC&layout=compact)](https://github.com/Christian-AC/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-AC&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-AC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
