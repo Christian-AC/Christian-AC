@@ -4,8 +4,6 @@ I'm Christian, a outdoor enthusiast, gamer, and computer builder. But i'm also a
 
 Being born and raised in the Bay Area gives me a lot of opportunities to fulfill my hobby of being outdoors. Whether its hiking, camping, snowboarding, swimming I relish those experiences. When i'm home and not coding I love playing video games. I enjoy different types of games from MMOs, FPS, adventure, and practically any type of game ill try. Gaming eventually led to another passion of my building computers. Then building computers led to coding.
 
-<a href="https://www.linkedin.com/in/christian-alcantara-cayanan/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://angel.co/u/christian-alcantara-cayanan" rel="nofollow"><img src="https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b" alt="image" data-canonical-src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&amp;logo=AngelList&amp;logoColor=black" style="max-width: 100%;"></a>
-
 
 ## My Projects
 <a href="https://ylp-clone.herokuapp.com/">Ylp</a> A Yelp clone for users to review various businesses 
